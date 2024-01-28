@@ -1,4 +1,4 @@
-This repository will store my studies lessons from the book **"Stock Exchange for python programmers"**
+This repository will store my studies from the book **[Stock Exchange for python programmers](https://www.amazon.com/Exchange-python-programmers-Leonardo-Rodrigues-ebook/dp/B084YWQLPY)**
 
 
 ## Financials **API** sources:
